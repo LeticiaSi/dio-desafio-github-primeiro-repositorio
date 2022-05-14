@@ -1,0 +1,11 @@
+Anotações Aula Git/GitHub
+
+Como transferir arquivos do computador local para o servidor remoto do GitHub
+
+1. git add . ou git add -a (apertar enter);
+2. git status para verificar se arquivo foi adicionado;
+3. 
+
+Git Status: 
+
+Git Push
